@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG" verbose="1"> <!--verbose="1" parallel="false" thread-count="2"-->
+
+    <!--<listeners>-->
+        <!--<listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+
+    <!--</listeners>-->
+    <test name="HighPriority Suite">
+        <classes>
+            <!--<class name="tests.highPriority.CheckErrorsOnPagesTest" />-->
+            <!--<class name="tests.highPriority.ItemsTest" />-->
+            <!--<class name="tests.highPriority.LevelsPresenceTest" />-->
+            <!--<class name="tests.highPriority.LocationsTest" />-->
+            <!--<class name="tests.highPriority.StoreCoinsStoreTemplatesTest" />-->
+            <!--<class name="tests.highPriority.StoreCoinsItemTest" />-->
+            <!--<class name="tests.highPriority.StoreBundleItemTest" />-->
+            <!--<class name="tests.highPriority.StoreScheduledSalesTest" />-->
+            <!--<class name="tests.highPriority.UsersManagerBonusAndPunishTest" />-->
+            <!--<class name="tests.highPriority.BanWordsListTest" />-->
+            <!--<class name="tests.highPriority.SettingsUpdatingTest" />-->
+            <!--<class name="tests.highPriority.CpaEventsTest" />-->
+            <class name="tests.highPriority.FlashLogsTest" />
+
+        </classes>
+    </test>
+
+
+<!--    <test name="MediumPriority">
+        <classes>
+            <class name="Test2" />
+        </classes>
+    </test>
+
+    <test name="LowPriority">
+        <classes>
+            <class name="Test2" />
+        </classes>
+    </test>-->
+
+</suite>

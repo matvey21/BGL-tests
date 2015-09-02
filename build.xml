@@ -1,0 +1,20 @@
+<project name="BGL-AutoTests">
+
+    <!--	<property name="" value=""/> -->
+    <property name="class_path" location="${basedir}/src"/>
+    <property name="build_dir" location="${basedir}/bin"/>
+
+    <target name="cleanUpBuildDir">
+        <echo>Delating and Creating the ${build_dir}</echo>
+        <delete dir="${build_dir}"/>
+        <mkdir dir="${build_dir}"/>
+    </target>
+
+    <target name="compileAutoTests" depends="createBuildDir">
+        <echo>Run Auto Tests</echo>
+        <javac srcdir="${class_path}" destdir="${build_dir}"/>
+    </target>
+
+
+
+</project>

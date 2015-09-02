@@ -20,32 +20,33 @@ public class LoginPage extends BasePage {
     private static By loginTextField = By.id("login");
     private static By passTextField = By.id("password");
     private static By loginButton = By.id("btn-login");
+    private static By backgammonBtn = By.xpath("(.//*[@href='/BackgammonActions'])[1]");
+    private static By LogoutLink = By.xpath(".//*[contains(@href, 'LogOff')]");
+    private static By userPictureDrop = By.xpath(".//*[@class='leftUserDrop']");
 
-
-    public void openLogInPage() {
-        elements.openURL("http://stage-cms.come2play.com/");
-    }
 
     // User login in to CMS
-    public void userLogIn(final String login, final String pass) {
-        elements.inputText((loginTextField), login);
-        elements.inputText((passTextField), pass);
-        elements.clickButton((loginButton));
-//        wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(".//*[@href='/BackgammonAccount/LogOff']")));
+    public void userLogIn(final String login, final String pass){
+        elements.inputText(loginTextField, login);
+        elements.inputText(passTextField, pass);
+        elements.clickButton(loginButton);
         elements.waitForPageLoaded(driver);
-        log.info("User is logged succesfully");
+        log.info("User is Logged successfully");
     }
 
-    private static By LogoutLink = By.xpath(".//*[@href='/BackgammonAccount/LogOff']");
-    public boolean isUserLoggedIn (){
-        try {
-            driver.findElement(LogoutLink);
-            return true;
-        } catch (NoSuchElementException exception){
-            return false;
-        } finally {
-            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        }
+    public boolean isUserLoggedIn(){
+        return elements.isElementPresent(LogoutLink);
+    }
+
+    public void userLogOut(){
+        elements.clickButton(userPictureDrop);
+        elements.clickLink(LogoutLink);
+        log.debug("Click_Link -> 'Logout'");
+    }
+
+    public void backgammonBtn(){
+        elements.clickButton(backgammonBtn);
+        log.info("Click_Button -> 'Backgammon'");
     }
 }
 
