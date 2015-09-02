@@ -1,0 +1,208 @@
+2015-31-08 18:07:18   INFO [org.apache.http.impl.execchain.RetryExec] : I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7056: Connection reset
+2015-31-08 18:07:18   INFO [org.apache.http.impl.execchain.RetryExec] : Retrying request to {}->http://127.0.0.1:7056
+2015-09-01 18:37:59   INFO [libsmy.WebElements] : URL was opened
+2015-09-01 18:38:00   INFO [libsmy.WebElements] : Text was inputted
+2015-09-01 18:38:00   INFO [libsmy.WebElements] : Text was inputted
+2015-09-01 18:38:00   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:00   WARN [pages.LoginPage] : User is logged succesfully
+2015-09-01 18:38:00   INFO [pages.LoginPage] : info level works !!!
+2015-09-01 18:38:05   INFO [libsmy.WebElements] : URL was opened
+2015-09-01 18:38:06   INFO [libsmy.WebElements] : Link was clicked
+2015-09-01 18:38:06   INFO [tests.BaseTest] : BGL1648a >> Test Passed - StorePage edit page is opened
+2015-09-01 18:38:06   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:07   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-01 18:38:07   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-01 18:38:07   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:07   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:07   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:08   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:09   INFO [libsmy.WebElements] : Link was clicked
+2015-09-01 18:38:09   INFO [pages.StorePage] : DefaultBtn Disabled
+2015-09-01 18:38:09   INFO [tests.BaseTest] : BGL1648b >> Test Passed - Parameters Changed --> Saved --> Checked if they were saved
+2015-09-01 18:38:09   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:09   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-01 18:38:09   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-01 18:38:10   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:10   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:10   INFO [libsmy.WebElements] : Button was clicked
+2015-09-01 18:38:11   INFO [tests.BaseTest] : BGL1648c >> Test Passed - Changes are turned back
+2015-09-02 10:42:48   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 10:42:49   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 10:42:49   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 10:42:49   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:42:49   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 10:42:55   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 10:42:55   INFO [libsmy.WebElements] : Link was clicked
+2015-09-02 10:42:55   INFO [tests.BaseTest] : BGL1648a >> Test Passed - StorePage edit page is opened
+2015-09-02 10:42:56   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:42:56   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-02 10:42:56   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-02 10:42:57   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:42:57   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:42:57   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:42:57   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:42:58   INFO [libsmy.WebElements] : Link was clicked
+2015-09-02 10:42:58   INFO [pages.BasePage] : DefaultBtn Disabled
+2015-09-02 10:42:58   INFO [tests.BaseTest] : BGL1648b >> Test Passed - Parameters Changed --> Saved --> Checked if they were saved
+2015-09-02 10:42:58   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:42:59   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-02 10:42:59   INFO [libsmy.WebElements] : Item was selected from Drop Down List By Click
+2015-09-02 10:42:59   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:43:00   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:43:00   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 10:43:01   INFO [tests.BaseTest] : BGL1648c >> Test Passed - Changes are turned back
+2015-09-02 13:56:59   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 13:56:59   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 13:56:59   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 13:56:59   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 13:56:59   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 13:57:01   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:06:44   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 14:06:44   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:06:44   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:06:44   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:06:44   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 14:06:46   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:06:46   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:06:49   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:12:34   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 14:12:34   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:12:34   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:12:34   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:12:34   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 14:12:36   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:12:37   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:12:38   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:22:21   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 14:22:22   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:22:22   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:22:22   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:22:22   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 14:22:24   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:22:24   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:22:25   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:34:23   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 14:34:24   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:34:25   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:34:25   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:34:25   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 14:34:27   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:34:28   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:34:28   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:40:46   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 14:40:47   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:40:47   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:40:47   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:40:47   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 14:40:49   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:40:49   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:40:50   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:58:41   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 14:58:42   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:58:42   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 14:58:42   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:58:42   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 14:58:44   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:58:44   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:58:46   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 14:58:46   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 16:22:05   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 16:22:06   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 16:22:06   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 16:22:06   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 16:22:06   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 16:22:08   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 16:22:08   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 16:22:10   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 17:46:25   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 17:46:26   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 17:46:26   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 17:46:26   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 17:46:26   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 17:46:30   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 17:46:30   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 17:46:33   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:06:47   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 18:06:47   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:06:47   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:06:47   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:06:47   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 18:06:49   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:06:50   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:06:51   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:09:17   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 18:09:18   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:09:18   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:09:18   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:09:18   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 18:09:20   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:09:20   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:09:21   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:33:43   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 18:33:44   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:33:44   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:33:44   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:33:44   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 18:33:49   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:33:49   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:33:51   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:34:41   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 18:34:42   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:34:42   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:34:42   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:34:42   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 18:34:44   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:34:44   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:34:45   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:47:17   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 18:47:17   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:47:17   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 18:47:18   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:47:18   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 18:47:19   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:47:20   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 18:47:21   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:00:22   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 19:00:23   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:00:23   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:00:23   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:00:23   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 19:00:26   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:00:26   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:00:28   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:00:28   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:03:00   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 19:03:00   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:03:00   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:03:00   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:03:00   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 19:03:02   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:03:03   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:03:04   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:03:05   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:03:05   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:05:30   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 19:05:30   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:05:30   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:05:30   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:05:30   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 19:05:32   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:05:33   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:05:34   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:05:34   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:25   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 19:13:25   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:13:26   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:13:26   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:26   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 19:13:28   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:28   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:29   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:53   INFO [libsmy.WebElements] : URL was opened
+2015-09-02 19:13:54   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:13:54   INFO [libsmy.WebElements] : Text was inputted
+2015-09-02 19:13:54   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:54   INFO [pages.BasePage] : User is logged succesfully
+2015-09-02 19:13:56   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:56   INFO [libsmy.WebElements] : Button was clicked
+2015-09-02 19:13:57   INFO [libsmy.WebElements] : Button was clicked
