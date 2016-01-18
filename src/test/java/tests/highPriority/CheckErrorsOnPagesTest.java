@@ -18,6 +18,7 @@ public class CheckErrorsOnPagesTest extends BaseTest{
                */ new By[]{
                         By.xpath(".//*/div[@id='sub-menu-tab-0']//a[@href='/BackgammonActions']"),
 //                        By.xpath("(.//*[@href='/BackgammonAds'])[1]"),
+//   need to fix >>>   TypeError: context.createDocumentFragment is not a function
 //                            By.xpath(".//*[@href='#tab-ad-campaigns']"),
 //                            By.xpath(".//*[@href='#tab-mobile']"),
 //                            By.xpath(".//*[@href='#tab-banners']"),

@@ -8982,3 +8982,896 @@
 2015-12-25 17:07:34   INFO [pages.LocationsPage] : Click_Button -> 'Save'
 2015-12-25 17:07:35   INFO [pages.LocationsPage] : Click_Button -> 'OK'
 2015-12-25 17:07:35   INFO [tests.highPriority.LocationsTest] : TEST PASS >> turn back -'Tip' parameter
+2016-01-12 14:45:47   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-12 14:45:47   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-12 14:45:49   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-12 14:45:51   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-12 14:45:51   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-12 14:45:52   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-12 14:45:52   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-12 14:45:52   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-12 14:45:52   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-12 14:47:10   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-12 14:47:10   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-12 14:47:12   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-12 14:47:14   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-12 14:47:14   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-12 14:47:14   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-12 14:47:14   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-12 14:47:15   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-12 14:47:15   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-12 15:04:13   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-12 15:04:13   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-12 15:04:15   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-12 15:04:17   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-12 15:04:17   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-12 15:04:17   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-12 15:04:37   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-12 15:04:45   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-12 15:04:52   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-12 15:11:47   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-12 15:11:47   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-12 15:11:48   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-12 15:11:49   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-12 15:11:51   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-12 15:11:51   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-12 15:11:51   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-12 15:11:51   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-12 15:11:51   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 14:32:08   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 14:32:08   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 14:32:11   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 14:32:14   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 14:32:15   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 14:32:15   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 14:32:15   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 14:32:15   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 14:32:15   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 14:37:30   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 14:37:30   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 14:37:32   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 14:37:35   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 14:37:35   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 14:37:35   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 14:37:36   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 14:37:36   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 14:37:36   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 14:39:50   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 14:39:50   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 14:39:53   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 14:39:55   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 14:39:55   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 14:39:56   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 14:39:56   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 14:39:56   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 14:39:56   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 14:46:42   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 14:46:42   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 14:46:44   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 14:46:46   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 14:46:46   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 14:46:47   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 14:46:47   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 14:46:47   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 14:46:47   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 14:46:48   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully
+2016-01-13 16:18:33   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:18:33   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:18:37   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:18:39   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:18:40   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:18:40   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 51
+2016-01-13 16:18:41   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:18:41   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:18:41   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:18:41   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:18:41   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 51
+2016-01-13 16:18:41   INFO [pages.CouponsPage] : Something goes wrong!!! number of coupons tha same as was before creating new coupon
+2016-01-13 16:18:41   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 16:18:42   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 16:18:42   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 16:25:46   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:25:46   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:25:47   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:25:48   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:25:50   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:25:50   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 52
+2016-01-13 16:25:50   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:25:50   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:25:50   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:25:50   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:25:51   INFO [libsmy.WebElements] : wait for ajax
+2016-01-13 16:25:51   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:25:51   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:25:51   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 53
+2016-01-13 16:25:51   INFO [pages.CouponsPage] : Coupons After Add NewOne =53 
+  Coupons Before Add 52 
+  Coupon created Successfully
+2016-01-13 16:25:51   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 16:25:52   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 16:25:52   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 16:35:23   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:35:23   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:35:26   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:35:26   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:35:29   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:35:29   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 52
+2016-01-13 16:35:29   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:35:29   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:35:29   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:35:29   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:35:29   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:35:29   INFO [pages.CouponsPage] : Coupons After Add NewOne = 52 >> Coupon created Successfully
+2016-01-13 16:35:29   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 16:35:31   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 16:35:31   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 16:39:05   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:39:05   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:39:07   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:39:11   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:39:13   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:39:13   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 52
+2016-01-13 16:39:14   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:39:14   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:39:14   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:39:14   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:39:14   INFO [libsmy.WebElements] : wait for ajax
+2016-01-13 16:39:14   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:39:14   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:39:14   INFO [pages.CouponsPage] : Coupons After Add NewOne = 53 >> Coupon created Successfully
+2016-01-13 16:39:14   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 16:39:15   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 16:39:15   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 16:41:05   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:41:05   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:41:07   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:41:07   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:41:09   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:41:09   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 52
+2016-01-13 16:41:10   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:41:10   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:41:10   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:41:10   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:41:10   INFO [libsmy.WebElements] : wait for ajax
+2016-01-13 16:41:10   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:41:11   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:41:11   INFO [pages.CouponsPage] : Coupons After Add NewOne = 53 >> Coupon created Successfully
+2016-01-13 16:41:11   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 16:41:11   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 16:41:11   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 16:41:48   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:41:48   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:41:50   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:41:51   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:41:53   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:41:53   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 52
+2016-01-13 16:41:53   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:41:54   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:41:54   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:41:54   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:41:54   INFO [libsmy.WebElements] : wait for ajax
+2016-01-13 16:41:54   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:41:54   INFO [pages.CouponsPage] : Coupons After Add NewOne = 53 >> Coupon created Successfully
+2016-01-13 16:41:54   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 16:41:55   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 16:41:55   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 16:45:58   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:45:58   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:46:01   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:46:03   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:46:07   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:46:07   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add Coupon 52
+2016-01-13 16:46:08   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:46:08   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:46:08   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:46:08   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:46:09   INFO [pages.CouponsPage] : Coupons After Add NewOne = 52 >> Coupon created Successfully
+2016-01-13 16:46:09   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 16:46:09   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 16:46:09   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 16:58:05   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:58:06   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 16:58:11   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 16:58:17   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 16:58:17   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 16:58:18   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 52
+2016-01-13 16:58:18   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 16:58:18   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 16:58:18   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 16:58:18   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 16:58:18   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 16:58:18   INFO [pages.CouponsPage] : Coupon is not present
+2016-01-13 17:00:18   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 17:00:18   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 17:00:23   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 17:00:25   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 17:00:29   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 17:00:29   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 53
+2016-01-13 17:00:30   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 17:00:30   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 17:00:30   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 17:00:30   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 17:00:30   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 17:00:30   INFO [pages.CouponsPage] : Coupon is not present
+2016-01-13 17:02:56   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 17:02:56   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 17:03:00   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 17:03:00   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 17:03:05   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 17:03:05   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 54
+2016-01-13 17:03:05   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 17:03:06   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 17:03:06   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 17:03:06   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 17:03:06   INFO [libsmy.WebElements] : wait for ajax
+2016-01-13 17:03:06   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 17:03:06   INFO [pages.CouponsPage] : Count of Coupons in Table After Add NewOne = 55 >> Coupon created Successfully
+2016-01-13 17:03:06   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 17:03:07   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 17:03:07   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-13 17:03:38   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-13 17:03:38   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-13 17:03:44   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-13 17:03:45   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-13 17:03:47   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-13 17:03:47   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 54
+2016-01-13 17:03:48   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-13 17:03:48   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-13 17:03:48   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-13 17:03:49   INFO [libsmy.WebElements] : wait for ajax
+2016-01-13 17:03:49   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-13 17:03:49   INFO [pages.CouponsPage] : Count of Coupons in Table After Add NewOne = 55 >> Coupon created Successfully
+2016-01-13 17:03:49   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-13 17:03:50   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-13 17:03:50   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-14 11:02:54   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:02:54   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:02:56   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:04:38   INFO [tests.highPriority.CheckErrorsOnPagesTest] : No_Errors_found_on_Pages
+2016-01-14 11:04:45   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:04:45   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:04:47   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:04:48   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-14 11:04:49   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-14 11:04:49   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 54
+2016-01-14 11:04:49   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-14 11:04:50   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-14 11:04:50   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-14 11:04:50   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:04:50   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-14 11:04:50   INFO [pages.CouponsPage] : Count of Coupons in Table After Add NewOne = 55 >> Coupon created Successfully
+2016-01-14 11:04:50   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-14 11:04:51   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-14 11:04:51   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-14 11:04:57   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:04:57   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:04:58   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:05:01   INFO [pages.ItemsPage] : Click_Menu -> 'Items'
+2016-01-14 11:05:02   INFO [pages.ItemsPage] : Select 'Gifts' from dropdown list by Category
+2016-01-14 11:05:02   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:05:02   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:05:03   INFO [pages.ItemsPage] : checkBox_BotCanUse - was already Disabled
+2016-01-14 11:05:03   INFO [pages.ItemsPage] : Input99in field 'Position'
+2016-01-14 11:05:03   INFO [pages.ItemsPage] : Input5in field 'Level From'
+2016-01-14 11:05:03   INFO [pages.ItemsPage] : Input100in field 'Amount'
+2016-01-14 11:05:03   INFO [pages.ItemsPage] : Input200in field 'Xp'
+2016-01-14 11:05:04   INFO [pages.ItemsPage] : Click_Button -> 'Save'
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Button_'Default'- was Disabled
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Displayed - '99'
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Displayed - '5'
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Displayed - '100'
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Displayed - '200'
+2016-01-14 11:05:05   INFO [tests.highPriority.ItemsTest] : TEST PASS >>> Parameters Changed -> Saved -> Checked if they were saved
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : checkBox_BotCanUse : Enabled
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Input2in field 'Position'
+2016-01-14 11:05:05   INFO [pages.ItemsPage] : Input0in field 'Level From'
+2016-01-14 11:05:06   INFO [pages.ItemsPage] : Input20in field 'Amount'
+2016-01-14 11:05:06   INFO [pages.ItemsPage] : Input5in field 'Xp'
+2016-01-14 11:05:06   INFO [pages.ItemsPage] : Click_Button -> 'Save'
+2016-01-14 11:05:07   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:05:07   INFO [pages.ItemsPage] : checkBox BotCanUse - was Enabled
+2016-01-14 11:05:07   INFO [pages.ItemsPage] : Displayed - '2'
+2016-01-14 11:05:07   INFO [pages.ItemsPage] : Displayed - '0'
+2016-01-14 11:05:07   INFO [pages.ItemsPage] : Displayed - '20'
+2016-01-14 11:05:07   INFO [pages.ItemsPage] : Displayed - '5'
+2016-01-14 11:05:07   INFO [tests.highPriority.ItemsTest] : TEST PASS >>> Changes are turned back
+2016-01-14 11:05:12   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:05:12   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:05:14   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:05:15   INFO [pages.LevelsPage] : Click_Menu -> Levels
+2016-01-14 11:05:16   INFO [pages.LevelsPage] : Select_item 'All' from dropdown list
+2016-01-14 11:05:16   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:05:16   INFO [pages.LevelsPage] : Click -> Search Field
+2016-01-14 11:05:16   INFO [pages.LevelsPage] : Count is right -> 36 = 36
+2016-01-14 11:05:16   INFO [tests.highPriority.LevelsPresenceTest] : TEST PASS >> levels presence
+2016-01-14 11:05:21   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:05:21   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:05:23   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:05:28   INFO [pages.LocationsPage] : Click_Button -> 'Locations'
+2016-01-14 11:05:29   INFO [pages.LocationsPage] : Random element chosen : 23
+2016-01-14 11:05:29   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 11:05:30   INFO [pages.LocationsPage] : Random element chosen : 39
+2016-01-14 11:05:30   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 11:05:30   INFO [pages.LocationsPage] : Random element chosen : 11
+2016-01-14 11:05:31   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 11:05:31   INFO [tests.highPriority.LocationsTest] : TEST PASS >> successfully move between Locations
+2016-01-14 11:05:31   INFO [pages.LocationsPage] : Click -> first Location from Table
+2016-01-14 11:05:31   INFO [pages.LocationsPage] : Input_Text -> Tips field : 6
+2016-01-14 11:05:31   INFO [pages.LocationsPage] : Click_Button -> 'Save'
+2016-01-14 11:05:33   INFO [pages.LocationsPage] : Click_Button -> 'OK'
+2016-01-14 11:05:33   INFO [tests.highPriority.LocationsTest] : TEST PASS >> change -'Tip' parameter
+2016-01-14 11:05:33   INFO [pages.LocationsPage] : Click -> first Location from Table
+2016-01-14 11:05:34   INFO [pages.LocationsPage] : Input_Text -> Tips field : 5
+2016-01-14 11:05:34   INFO [pages.LocationsPage] : Click_Button -> 'Save'
+2016-01-14 11:05:35   INFO [pages.LocationsPage] : Click_Button -> 'OK'
+2016-01-14 11:05:35   INFO [tests.highPriority.LocationsTest] : TEST PASS >> turn back -'Tip' parameter
+2016-01-14 11:05:41   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:05:41   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:05:42   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:05:46   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:05:46   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:05:47   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:05:47   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 11:05:47   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Store edit page opens
+2016-01-14 11:05:47   INFO [pages.StorePage] : Button_'Default' : Disabled
+2016-01-14 11:05:47   INFO [pages.StorePage] : Select_Device -> Android
+2016-01-14 11:05:48   INFO [pages.StorePage] : Select Store Default Item -> 350,000 coins - 39.99$
+2016-01-14 11:05:48   INFO [pages.StorePage] : Select Segment -> Level from 0 to 9
+2016-01-14 11:05:49   INFO [pages.StorePage] : Button_'Is Sale' : Enabled
+2016-01-14 11:05:50   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:05:50   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:05:50   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 11:05:50   INFO [pages.StorePage] : Button_'Default'- was Disabled
+2016-01-14 11:05:50   INFO [pages.StorePage] : Displayed - 'Android'
+2016-01-14 11:05:50   INFO [pages.StorePage] : Displayed - '350,000 coins - 39.99$'
+2016-01-14 11:05:50   INFO [pages.StorePage] : Displayed - 'Level from 0 to 9'
+2016-01-14 11:05:50   INFO [pages.StorePage] : Button_'Is Sale' - was Enabled
+2016-01-14 11:05:50   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Parameters Changed -> Saved -> Checked if they were saved
+2016-01-14 11:05:51   INFO [pages.StorePage] : Button_'Default' : Enabled
+2016-01-14 11:05:51   INFO [pages.StorePage] : Select_Device -> Web
+2016-01-14 11:05:51   INFO [pages.StorePage] : Select Store Default Item -> 72,500 coins - 9.99$
+2016-01-14 11:05:51   INFO [pages.StorePage] : Clear Segments
+2016-01-14 11:05:51   INFO [pages.StorePage] : Button_'Is Sale' : Disabled
+2016-01-14 11:05:52   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:05:53   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:05:53   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 11:05:53   INFO [pages.StorePage] : Button_'Default'- was Enabled
+2016-01-14 11:05:53   INFO [pages.StorePage] : Displayed - 'Web'
+2016-01-14 11:05:53   INFO [pages.StorePage] : Displayed - '72,500 coins - 9.99$'
+2016-01-14 11:06:03   INFO [pages.StorePage] : Segments - Cleared
+2016-01-14 11:06:03   INFO [pages.StorePage] : Button_'Is Sale' - was Disabled
+2016-01-14 11:06:03   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Changes are turned back
+2016-01-14 11:06:09   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:09   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:06:10   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:06:14   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:14   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:06:14   INFO [pages.StorePage] : Click_Tab -> 'Coins items'
+2016-01-14 11:06:15   INFO [pages.StorePage] : Click -> 'Add Item'
+2016-01-14 11:06:15   INFO [pages.StorePage] : Inputted_Text -> into field Itunes ID : s_p1.1
+2016-01-14 11:06:15   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:06:16   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:06:16   INFO [tests.highPriority.StoreCoinsItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:06:20   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:20   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:06:20   INFO [pages.StorePage] : Click_Tab -> 'Coins items'
+2016-01-14 11:06:20   INFO [pages.StorePage] : Click -> 'Add Item'
+2016-01-14 11:06:20   INFO [pages.StorePage] : Inputted_Text -> into field Google Play ID : s_an1
+2016-01-14 11:06:20   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:06:21   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:06:21   INFO [tests.highPriority.StoreCoinsItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:06:24   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:24   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:06:25   INFO [pages.StorePage] : Click_Tab -> 'Coins items'
+2016-01-14 11:06:25   INFO [pages.StorePage] : Click -> Coins Item 1636
+2016-01-14 11:06:25   INFO [pages.StorePage] : Button_coins: Disabled
+2016-01-14 11:06:25   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:06:26   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:06:26   INFO [tests.highPriority.StoreCoinsItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:06:31   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:31   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:06:33   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:06:37   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:37   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:06:37   INFO [pages.StorePage] : Click_Tab -> 'Bundle items'
+2016-01-14 11:06:37   INFO [pages.StorePage] : Click -> 'Add Bundle'
+2016-01-14 11:06:38   INFO [pages.StorePage] : Inputted_Text -> into field Itunes ID : s_BGL42
+2016-01-14 11:06:38   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:06:39   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:06:39   INFO [tests.highPriority.StoreBundleItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:06:42   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:42   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:06:42   INFO [pages.StorePage] : Click_Tab -> 'Bundle items'
+2016-01-14 11:06:43   INFO [pages.StorePage] : Click -> 'Add Bundle'
+2016-01-14 11:06:43   INFO [pages.StorePage] : Inputted_Text -> into field Google Play ID : s_an40
+2016-01-14 11:06:43   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:06:43   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:06:43   INFO [tests.highPriority.StoreBundleItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:06:47   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:47   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:06:47   INFO [pages.StorePage] : Click_Tab -> 'Bundle items'
+2016-01-14 11:06:47   INFO [pages.StorePage] : Click -> Coins Item 1647
+2016-01-14 11:06:48   INFO [pages.StorePage] : Button_bundle: Disabled
+2016-01-14 11:06:48   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:06:48   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:06:48   INFO [tests.highPriority.StoreBundleItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:06:53   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:53   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:06:55   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:06:59   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:06:59   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:06:59   INFO [pages.StorePage] : Click_Tab -> Scheduled Sales
+2016-01-14 11:07:00   INFO [pages.StorePage] : Click_Tab -> Add Scheduler
+2016-01-14 11:07:02   INFO [pages.StorePage] : Inputted -> Start Time Date 'Sep 10, 2015 00:00'
+2016-01-14 11:07:02   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:07:04   INFO [pages.StorePage] : Inputted -> End Time Date 'Sep 9, 2015 00:00'
+2016-01-14 11:07:05   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:07:05   INFO [pages.StorePage] : Inputted -> IDs:(1,32,33) in the field
+2016-01-14 11:07:05   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:07:05   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:07:05   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Error message shows
+2016-01-14 11:07:08   INFO [pages.StorePage] : Inputted -> Start Time Date 'Sep 9, 2015 00:00'
+2016-01-14 11:07:08   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:07:10   INFO [pages.StorePage] : Inputted -> End Time Date 'Sep 10, 2015 00:00'
+2016-01-14 11:07:10   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:07:10   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:07:11   INFO [pages.StorePage] : New Created Scheduler Present
+2016-01-14 11:07:11   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler created
+2016-01-14 11:07:11   INFO [pages.StorePage] : Click_Link -> 'export To Excel'
+2016-01-14 11:07:13   INFO [pages.StorePage] : KeyPress Robot worked properly
+2016-01-14 11:07:13   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler Downloaded successfully
+2016-01-14 11:07:14   INFO [pages.StorePage] : Dialog Window is present
+2016-01-14 11:07:14   INFO [pages.StorePage] : Dialog Window is opensStore- CMS [STAGING] - Come2Play
+2016-01-14 11:07:14   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler removed
+2016-01-14 11:07:20   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:07:20   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:07:22   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:07:22   INFO [pages.UsersPage] : Click_Menu -> 'Users'
+2016-01-14 11:07:23   INFO [pages.UsersPage] : Click_Button -> 'Edit' (1st User from the top)
+2016-01-14 11:07:24   INFO [pages.UsersPage] : Click_Tab -> 'Transactions'
+2016-01-14 11:07:24   INFO [pages.UsersPage] : Click_Button -> 'Add bonus'
+2016-01-14 11:07:25   INFO [pages.UsersPage] : Input in the 'Value' field - Data (10500)
+2016-01-14 11:07:25   INFO [pages.UsersPage] : Input in the 'Notes' field - Data (test-bonus)
+2016-01-14 11:07:25   INFO [pages.UsersPage] : Click_Button -> 'Submit'
+2016-01-14 11:07:25   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:07:25   INFO [pages.UsersPage] : Bonus Delta '10500' present in Table
+2016-01-14 11:07:25   INFO [tests.highPriority.UsersManagerBonusAndPunishTest] : TEST PASS >> Bonus Added to User
+2016-01-14 11:07:25   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:07:26   INFO [pages.UsersPage] : Click_Tab -> 'Transactions'
+2016-01-14 11:07:26   INFO [pages.UsersPage] : Click_Button -> 'Punish'
+2016-01-14 11:07:41   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:07:41   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:07:43   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:07:43   INFO [pages.BanWordsPage] : Click_Tab -> Tab1
+2016-01-14 11:07:44   INFO [pages.BanWordsPage] : Click_Button -> BanWords Menu
+2016-01-14 11:07:45   INFO [pages.BanWordsPage] : BanWords File present and clicked
+2016-01-14 11:07:46   INFO [pages.BanWordsPage] : KeyPress Robot worked properly
+2016-01-14 11:07:46   INFO [tests.highPriority.BanWordsListTest] : TEST PASS >> Link to BanWordsList available and works
+2016-01-14 11:07:51   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:07:51   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:07:53   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:07:53   INFO [pages.SettingsPage] : Click_Tab -> Tab1
+2016-01-14 11:07:57   INFO [pages.SettingsPage] : Click_Menu -> 'Settings'
+2016-01-14 11:07:57   INFO [pages.SettingsPage] : Click -> 'BG_Android_Version'
+2016-01-14 11:07:57   INFO [pages.SettingsPage] : Input_value (1.2.0)
+2016-01-14 11:07:57   INFO [pages.SettingsPage] : Click_Button -> 'Submit'
+2016-01-14 11:08:00   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:08:05   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:08:05   INFO [pages.SettingsPage] : Android version changed
+2016-01-14 11:08:05   INFO [tests.highPriority.SettingsUpdatingTest] : TEST PASS >> Android Version changed to 1.2.0
+2016-01-14 11:08:05   INFO [pages.SettingsPage] : Click -> 'BG_Android_Version'
+2016-01-14 11:08:05   INFO [pages.SettingsPage] : Input_value (1.0.0)
+2016-01-14 11:08:05   INFO [pages.SettingsPage] : Click_Button -> 'Submit'
+2016-01-14 11:08:08   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:08:08   INFO [pages.SettingsPage] : Android version changed
+2016-01-14 11:08:08   INFO [tests.highPriority.SettingsUpdatingTest] : TEST PASS >> Android Version turned back to 1.0.0
+2016-01-14 11:08:13   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:08:13   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:08:15   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:08:15   INFO [pages.CpaEventsPage] : Click_Tab -> 'Tab2'
+2016-01-14 11:08:17   INFO [pages.CpaEventsPage] : Click_Menu -> 'CPA Events'
+2016-01-14 11:08:17   INFO [pages.CpaEventsPage] : Set Time Range From Date: Aug 1, 2015
+2016-01-14 11:08:17   INFO [pages.CpaEventsPage] : Select -> Payments Type: '(All)'
+2016-01-14 11:08:17   INFO [pages.CpaEventsPage] : Click_Button -> 'Apply filter'
+2016-01-14 11:08:18   INFO [pages.CpaEventsPage] : Commission sorted by Asc
+2016-01-14 11:08:28   INFO [pages.CpaEventsPage] : commission is not '0'
+2016-01-14 11:08:28   INFO [pages.CpaEventsPage] : Select -> Show Entries 5000
+2016-01-14 11:08:30   INFO [pages.CpaEventsPage] : Select_Filter -> 'Tokens'
+2016-01-14 11:08:30   INFO [pages.CpaEventsPage] : Count of filtering products doesn't match count of rows in table
+2016-01-14 11:08:41   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:08:41   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:08:43   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:08:43   INFO [pages.FlashLogsPage] : Click_Tab -> Tab2
+2016-01-14 11:08:47   INFO [pages.FlashLogsPage] : Click_Link -> BGFlashLogs
+2016-01-14 11:08:47   INFO [pages.FlashLogsPage] : Select_Device -> 4
+2016-01-14 11:08:48   INFO [pages.FlashLogsPage] : Click_Button -> 'Search'
+2016-01-14 11:08:48   INFO [pages.FlashLogsPage] : Filtering by Device -> Android
+2016-01-14 11:08:58   INFO [pages.FlashLogsPage] : No matching records found
+2016-01-14 11:08:58   INFO [tests.highPriority.FlashLogsTest] : TEST PASS >> filter by Device
+2016-01-14 11:26:19   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:26:19   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:26:21   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:26:21   INFO [pages.UsersPage] : Click_Menu -> 'Users'
+2016-01-14 11:26:23   INFO [pages.UsersPage] : Click_Button -> 'Edit' (1st User from the top)
+2016-01-14 11:26:23   INFO [pages.UsersPage] : Click_Tab -> 'Transactions'
+2016-01-14 11:26:24   INFO [pages.UsersPage] : Click_Button -> 'Add bonus'
+2016-01-14 11:26:24   INFO [pages.UsersPage] : Input in the 'Value' field - Data (10500)
+2016-01-14 11:26:24   INFO [pages.UsersPage] : Input in the 'Notes' field - Data (test-bonus)
+2016-01-14 11:26:24   INFO [pages.UsersPage] : Click_Button -> 'Submit'
+2016-01-14 11:26:25   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:26:25   INFO [pages.UsersPage] : Bonus Delta '10500' present in Table
+2016-01-14 11:26:25   INFO [tests.highPriority.UsersManagerBonusAndPunishTest] : TEST PASS >> Bonus Added to User
+2016-01-14 11:26:25   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:26:25   INFO [pages.UsersPage] : Click_Tab -> 'Transactions'
+2016-01-14 11:26:25   INFO [pages.UsersPage] : Click_Button -> 'Punish'
+2016-01-14 11:26:25   INFO [pages.UsersPage] : Input in the 'Value' field - Data (10500)
+2016-01-14 11:26:25   INFO [pages.UsersPage] : Input in the 'Notes' field - Data (test-punish)
+2016-01-14 11:26:25   INFO [pages.UsersPage] : Click_Button -> 'Submit'
+2016-01-14 11:26:26   INFO [pages.UsersPage] : Punishment Delta '-10500' present in Table
+2016-01-14 11:26:26   INFO [tests.highPriority.UsersManagerBonusAndPunishTest] : TEST PASS >> Punish User
+2016-01-14 11:26:48   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:26:48   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:26:50   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:26:50   INFO [pages.CpaEventsPage] : Click_Tab -> 'Tab2'
+2016-01-14 11:26:51   INFO [pages.CpaEventsPage] : Click_Menu -> 'CPA Events'
+2016-01-14 11:26:53   INFO [pages.CpaEventsPage] : Set Time Range From Date: Aug 1, 2015
+2016-01-14 11:26:53   INFO [pages.CpaEventsPage] : Select -> Payments Type: '(All)'
+2016-01-14 11:26:53   INFO [pages.CpaEventsPage] : Click_Button -> 'Apply filter'
+2016-01-14 11:26:53   INFO [pages.CpaEventsPage] : Commission sorted by Asc
+2016-01-14 11:27:03   INFO [pages.CpaEventsPage] : commission is not '0'
+2016-01-14 11:27:04   INFO [pages.CpaEventsPage] : Select -> Show Entries 5000
+2016-01-14 11:27:06   INFO [pages.CpaEventsPage] : Select_Filter -> 'Tokens'
+2016-01-14 11:27:06   INFO [pages.CpaEventsPage] : Product_Tokens filtering correctly
+2016-01-14 11:27:07   INFO [pages.CpaEventsPage] : Select_Filter -> 'iTunes'
+2016-01-14 11:27:07   INFO [pages.CpaEventsPage] : Store_iTunes filtering correctly
+2016-01-14 11:27:07   INFO [tests.highPriority.CpaEventsTest] : TEST PASS >> Filters work correctly
+2016-01-14 11:27:07   INFO [pages.CpaEventsPage] : Click_Button -> 'Create report'
+2016-01-14 11:27:09   INFO [pages.CpaEventsPage] : KeyPress Robot worked properly
+2016-01-14 11:27:09   INFO [tests.highPriority.CpaEventsTest] : File uploaded Successfully
+2016-01-14 11:32:56   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:32:56   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:32:58   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:34:30   INFO [tests.highPriority.CheckErrorsOnPagesTest] : No_Errors_found_on_Pages
+2016-01-14 11:34:35   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:34:35   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:34:37   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:34:39   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-14 11:34:39   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-14 11:34:39   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 54
+2016-01-14 11:34:40   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-14 11:34:40   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-14 11:34:40   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-14 11:34:40   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:34:41   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-14 11:34:41   INFO [pages.CouponsPage] : Count of Coupons in Table After Add NewOne = 55 >> Coupon created Successfully
+2016-01-14 11:34:41   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-14 11:34:41   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-14 11:34:41   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-14 11:34:46   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:34:46   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:34:48   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:34:51   INFO [pages.ItemsPage] : Click_Menu -> 'Items'
+2016-01-14 11:34:52   INFO [pages.ItemsPage] : Select 'Gifts' from dropdown list by Category
+2016-01-14 11:34:52   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:34:53   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:34:53   INFO [pages.ItemsPage] : checkBox_BotCanUse : Disabled
+2016-01-14 11:34:53   INFO [pages.ItemsPage] : Input99in field 'Position'
+2016-01-14 11:34:53   INFO [pages.ItemsPage] : Input5in field 'Level From'
+2016-01-14 11:34:54   INFO [pages.ItemsPage] : Input100in field 'Amount'
+2016-01-14 11:34:54   INFO [pages.ItemsPage] : Input200in field 'Xp'
+2016-01-14 11:34:54   INFO [pages.ItemsPage] : Click_Button -> 'Save'
+2016-01-14 11:34:55   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:34:55   INFO [pages.ItemsPage] : Button_'Default'- was Disabled
+2016-01-14 11:34:55   INFO [pages.ItemsPage] : Displayed - '99'
+2016-01-14 11:34:55   INFO [pages.ItemsPage] : Displayed - '5'
+2016-01-14 11:34:55   INFO [pages.ItemsPage] : Displayed - '100'
+2016-01-14 11:34:55   INFO [pages.ItemsPage] : Displayed - '200'
+2016-01-14 11:34:55   INFO [tests.highPriority.ItemsTest] : TEST PASS >>> Parameters Changed -> Saved -> Checked if they were saved
+2016-01-14 11:34:55   INFO [pages.ItemsPage] : checkBox_BotCanUse : Enabled
+2016-01-14 11:34:56   INFO [pages.ItemsPage] : Input2in field 'Position'
+2016-01-14 11:34:56   INFO [pages.ItemsPage] : Input0in field 'Level From'
+2016-01-14 11:34:56   INFO [pages.ItemsPage] : Input20in field 'Amount'
+2016-01-14 11:34:56   INFO [pages.ItemsPage] : Input5in field 'Xp'
+2016-01-14 11:34:56   INFO [pages.ItemsPage] : Click_Button -> 'Save'
+2016-01-14 11:34:57   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 11:34:57   INFO [pages.ItemsPage] : checkBox BotCanUse - was Enabled
+2016-01-14 11:34:57   INFO [pages.ItemsPage] : Displayed - '2'
+2016-01-14 11:34:57   INFO [pages.ItemsPage] : Displayed - '0'
+2016-01-14 11:34:57   INFO [pages.ItemsPage] : Displayed - '20'
+2016-01-14 11:34:57   INFO [pages.ItemsPage] : Displayed - '5'
+2016-01-14 11:34:57   INFO [tests.highPriority.ItemsTest] : TEST PASS >>> Changes are turned back
+2016-01-14 11:35:02   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:35:02   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:35:04   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:35:06   INFO [pages.LevelsPage] : Click_Menu -> Levels
+2016-01-14 11:35:06   INFO [pages.LevelsPage] : Select_item 'All' from dropdown list
+2016-01-14 11:35:06   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:35:06   INFO [pages.LevelsPage] : Click -> Search Field
+2016-01-14 11:35:06   INFO [pages.LevelsPage] : Count is right -> 36 = 36
+2016-01-14 11:35:06   INFO [tests.highPriority.LevelsPresenceTest] : TEST PASS >> levels presence
+2016-01-14 11:35:11   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:35:11   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:35:13   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:35:13   INFO [pages.LocationsPage] : Click_Button -> 'Locations'
+2016-01-14 11:35:19   INFO [pages.LocationsPage] : Random element chosen : 13
+2016-01-14 11:35:20   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 11:35:21   INFO [pages.LocationsPage] : Random element chosen : 40
+2016-01-14 11:35:21   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 11:35:21   INFO [pages.LocationsPage] : Random element chosen : 41
+2016-01-14 11:35:22   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 11:35:22   INFO [tests.highPriority.LocationsTest] : TEST PASS >> successfully move between Locations
+2016-01-14 11:35:22   INFO [pages.LocationsPage] : Click -> first Location from Table
+2016-01-14 11:35:22   INFO [pages.LocationsPage] : Input_Text -> Tips field : 6
+2016-01-14 11:35:22   INFO [pages.LocationsPage] : Click_Button -> 'Save'
+2016-01-14 11:35:24   INFO [pages.LocationsPage] : Click_Button -> 'OK'
+2016-01-14 11:35:24   INFO [tests.highPriority.LocationsTest] : TEST PASS >> change -'Tip' parameter
+2016-01-14 11:35:25   INFO [pages.LocationsPage] : Click -> first Location from Table
+2016-01-14 11:35:25   INFO [pages.LocationsPage] : Input_Text -> Tips field : 5
+2016-01-14 11:35:25   INFO [pages.LocationsPage] : Click_Button -> 'Save'
+2016-01-14 11:35:26   INFO [pages.LocationsPage] : Click_Button -> 'OK'
+2016-01-14 11:35:26   INFO [tests.highPriority.LocationsTest] : TEST PASS >> turn back -'Tip' parameter
+2016-01-14 11:35:32   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:35:32   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:35:34   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:35:37   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:35:37   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:35:38   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:35:38   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 11:35:38   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Store edit page opens
+2016-01-14 11:35:38   INFO [pages.StorePage] : Button_'Default' : Disabled
+2016-01-14 11:35:39   INFO [pages.StorePage] : Select_Device -> Android
+2016-01-14 11:35:39   INFO [pages.StorePage] : Select Store Default Item -> 350,000 coins - 39.99$
+2016-01-14 11:35:40   INFO [pages.StorePage] : Select Segment -> Level from 0 to 9
+2016-01-14 11:35:40   INFO [pages.StorePage] : Button_'Is Sale' : Enabled
+2016-01-14 11:35:41   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:35:41   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:35:41   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 11:35:42   INFO [pages.StorePage] : Button_'Default'- was Disabled
+2016-01-14 11:35:42   INFO [pages.StorePage] : Displayed - 'Android'
+2016-01-14 11:35:42   INFO [pages.StorePage] : Displayed - '350,000 coins - 39.99$'
+2016-01-14 11:35:42   INFO [pages.StorePage] : Displayed - 'Level from 0 to 9'
+2016-01-14 11:35:42   INFO [pages.StorePage] : Button_'Is Sale' - was Enabled
+2016-01-14 11:35:42   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Parameters Changed -> Saved -> Checked if they were saved
+2016-01-14 11:35:42   INFO [pages.StorePage] : Button_'Default' : Enabled
+2016-01-14 11:35:42   INFO [pages.StorePage] : Select_Device -> Web
+2016-01-14 11:35:42   INFO [pages.StorePage] : Select Store Default Item -> 72,500 coins - 9.99$
+2016-01-14 11:35:43   INFO [pages.StorePage] : Clear Segments
+2016-01-14 11:35:43   INFO [pages.StorePage] : Button_'Is Sale' : Disabled
+2016-01-14 11:35:44   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:35:44   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 11:35:44   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 11:35:44   INFO [pages.StorePage] : Button_'Default'- was Enabled
+2016-01-14 11:35:44   INFO [pages.StorePage] : Displayed - 'Web'
+2016-01-14 11:35:44   INFO [pages.StorePage] : Displayed - '72,500 coins - 9.99$'
+2016-01-14 11:35:54   INFO [pages.StorePage] : Segments - Cleared
+2016-01-14 11:35:54   INFO [pages.StorePage] : Button_'Is Sale' - was Disabled
+2016-01-14 11:35:54   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Changes are turned back
+2016-01-14 11:35:59   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:35:59   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:36:01   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:36:05   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:05   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:36:05   INFO [pages.StorePage] : Click_Tab -> 'Coins items'
+2016-01-14 11:36:06   INFO [pages.StorePage] : Click -> 'Add Item'
+2016-01-14 11:36:06   INFO [pages.StorePage] : Inputted_Text -> into field Itunes ID : s_p1.1
+2016-01-14 11:36:06   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:36:07   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:36:07   INFO [tests.highPriority.StoreCoinsItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:36:10   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:10   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:36:11   INFO [pages.StorePage] : Click_Tab -> 'Coins items'
+2016-01-14 11:36:11   INFO [pages.StorePage] : Click -> 'Add Item'
+2016-01-14 11:36:11   INFO [pages.StorePage] : Inputted_Text -> into field Google Play ID : s_an1
+2016-01-14 11:36:11   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:36:12   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:36:12   INFO [tests.highPriority.StoreCoinsItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:36:15   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:15   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:36:15   INFO [pages.StorePage] : Click_Tab -> 'Coins items'
+2016-01-14 11:36:16   INFO [pages.StorePage] : Click -> Coins Item 1636
+2016-01-14 11:36:16   INFO [pages.StorePage] : Button_coins: Disabled
+2016-01-14 11:36:16   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:36:16   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:36:16   INFO [tests.highPriority.StoreCoinsItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:36:21   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:21   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:36:23   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:36:27   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:27   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:36:27   INFO [pages.StorePage] : Click_Tab -> 'Bundle items'
+2016-01-14 11:36:28   INFO [pages.StorePage] : Click -> 'Add Bundle'
+2016-01-14 11:36:28   INFO [pages.StorePage] : Inputted_Text -> into field Itunes ID : s_BGL42
+2016-01-14 11:36:28   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:36:29   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:36:29   INFO [tests.highPriority.StoreBundleItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:36:32   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:32   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:36:33   INFO [pages.StorePage] : Click_Tab -> 'Bundle items'
+2016-01-14 11:36:33   INFO [pages.StorePage] : Click -> 'Add Bundle'
+2016-01-14 11:36:33   INFO [pages.StorePage] : Inputted_Text -> into field Google Play ID : s_an40
+2016-01-14 11:36:33   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:36:34   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:36:34   INFO [tests.highPriority.StoreBundleItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:36:37   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:37   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:36:38   INFO [pages.StorePage] : Click_Tab -> 'Bundle items'
+2016-01-14 11:36:38   INFO [pages.StorePage] : Click -> Coins Item 1647
+2016-01-14 11:36:38   INFO [pages.StorePage] : Button_bundle: Disabled
+2016-01-14 11:36:38   INFO [pages.StorePage] : Click_Button -> Save
+2016-01-14 11:36:39   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:36:39   INFO [tests.highPriority.StoreBundleItemTest] : TEST PASS >>> it is not possible to save changes, Error message appears
+2016-01-14 11:36:44   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:44   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:36:46   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:36:49   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:36:49   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:36:50   INFO [pages.StorePage] : Click_Tab -> Scheduled Sales
+2016-01-14 11:36:50   INFO [pages.StorePage] : Click_Tab -> Add Scheduler
+2016-01-14 11:36:52   INFO [pages.StorePage] : Inputted -> Start Time Date 'Sep 10, 2015 00:00'
+2016-01-14 11:36:53   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:36:55   INFO [pages.StorePage] : Inputted -> End Time Date 'Sep 9, 2015 00:00'
+2016-01-14 11:36:55   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:36:55   INFO [pages.StorePage] : Inputted -> IDs:(1,32,33) in the field
+2016-01-14 11:36:56   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:36:56   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:36:56   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Error message shows
+2016-01-14 11:36:58   INFO [pages.StorePage] : Inputted -> Start Time Date 'Sep 9, 2015 00:00'
+2016-01-14 11:36:58   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:37:01   INFO [pages.StorePage] : Inputted -> End Time Date 'Sep 10, 2015 00:00'
+2016-01-14 11:37:01   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:37:01   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:37:01   INFO [pages.StorePage] : New Created Scheduler Present
+2016-01-14 11:37:01   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler created
+2016-01-14 11:37:02   INFO [pages.StorePage] : Click_Link -> 'export To Excel'
+2016-01-14 11:37:03   INFO [pages.StorePage] : KeyPress Robot worked properly
+2016-01-14 11:37:03   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler Downloaded successfully
+2016-01-14 11:37:04   INFO [pages.StorePage] : Dialog Window is present
+2016-01-14 11:37:04   INFO [pages.StorePage] : Dialog Window is opensStore- CMS [STAGING] - Come2Play
+2016-01-14 11:37:04   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler removed
+2016-01-14 11:39:15   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:39:15   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 11:39:17   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 11:39:21   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 11:39:21   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 11:39:21   INFO [pages.StorePage] : Click_Tab -> Scheduled Sales
+2016-01-14 11:39:21   INFO [pages.StorePage] : Click_Tab -> Add Scheduler
+2016-01-14 11:39:24   INFO [pages.StorePage] : Inputted -> Start Time Date 'Sep 10, 2015 00:00'
+2016-01-14 11:39:24   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:39:26   INFO [pages.StorePage] : Inputted -> End Time Date 'Sep 9, 2015 00:00'
+2016-01-14 11:39:26   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:39:26   INFO [pages.StorePage] : Inputted -> IDs:(1,32,33) in the field
+2016-01-14 11:39:26   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:39:27   INFO [pages.StorePage] : Error Message is Present
+2016-01-14 11:39:27   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Error message shows
+2016-01-14 11:39:29   INFO [pages.StorePage] : Inputted -> Start Time Date 'Sep 9, 2015 00:00'
+2016-01-14 11:39:29   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:39:32   INFO [pages.StorePage] : Inputted -> End Time Date 'Sep 10, 2015 00:00'
+2016-01-14 11:39:32   INFO [pages.StorePage] : Click_Button -> Done on Calendar
+2016-01-14 11:39:32   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 11:39:33   INFO [pages.StorePage] : New Created Scheduler Present
+2016-01-14 11:39:33   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler created
+2016-01-14 11:39:33   INFO [pages.StorePage] : Click_Link -> 'export To Excel'
+2016-01-14 11:39:34   INFO [pages.StorePage] : KeyPress Robot worked properly
+2016-01-14 11:39:34   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler Downloaded successfully
+2016-01-14 11:39:35   INFO [pages.StorePage] : Dialog Window is present
+2016-01-14 11:39:35   INFO [pages.StorePage] : Dialog Window is opensStore- CMS [STAGING] - Come2Play
+2016-01-14 11:39:35   INFO [tests.highPriority.StoreScheduledSalesTest] : TEST PASS >> Scheduler removed
+2016-01-14 12:45:56   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:45:56   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 12:45:58   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 12:47:24   INFO [tests.highPriority.CheckErrorsOnPagesTest] : No_Errors_found_on_Pages
+2016-01-14 12:47:31   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:47:31   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 12:47:33   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 12:47:34   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-14 12:47:35   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-14 12:47:35   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 54
+2016-01-14 12:47:36   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-14 12:47:36   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-14 12:47:36   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-14 12:47:36   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 12:47:36   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-14 12:47:36   INFO [pages.CouponsPage] : Count of Coupons in Table After Add NewOne = 55 >> Coupon created Successfully
+2016-01-14 12:47:36   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-14 12:47:37   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-14 12:47:37   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-14 12:47:42   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:47:42   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 12:47:44   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 12:47:48   INFO [pages.ItemsPage] : Click_Menu -> 'Items'
+2016-01-14 12:47:48   INFO [pages.ItemsPage] : Select 'Gifts' from dropdown list by Category
+2016-01-14 12:47:49   INFO [pages.ItemsPage] : Click_Button -> 'Edit'
+2016-01-14 12:48:05   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:48:05   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 12:48:06   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 12:48:07   INFO [pages.LevelsPage] : Click_Menu -> Levels
+2016-01-14 12:48:08   INFO [pages.LevelsPage] : Select_item 'All' from dropdown list
+2016-01-14 12:48:08   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:48:08   INFO [pages.LevelsPage] : Click -> Search Field
+2016-01-14 12:48:08   INFO [pages.LevelsPage] : Count is right -> 36 = 36
+2016-01-14 12:48:08   INFO [tests.highPriority.LevelsPresenceTest] : TEST PASS >> levels presence
+2016-01-14 12:48:13   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:48:13   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 12:48:15   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 12:48:15   INFO [pages.LocationsPage] : Click_Button -> 'Locations'
+2016-01-14 12:48:21   INFO [pages.LocationsPage] : Random element chosen : 31
+2016-01-14 12:48:22   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 12:48:22   INFO [pages.LocationsPage] : Random element chosen : 9
+2016-01-14 12:48:22   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 12:48:23   INFO [pages.LocationsPage] : Random element chosen : 4
+2016-01-14 12:48:23   INFO [pages.LocationsPage] : Click_Button -> 'Back'
+2016-01-14 12:48:23   INFO [tests.highPriority.LocationsTest] : TEST PASS >> successfully move between Locations
+2016-01-14 12:48:23   INFO [pages.LocationsPage] : Click -> first Location from Table
+2016-01-14 12:48:24   INFO [pages.LocationsPage] : Input_Text -> Tips field : 6
+2016-01-14 12:48:24   INFO [pages.LocationsPage] : Click_Button -> 'Save'
+2016-01-14 12:48:25   INFO [pages.LocationsPage] : Click_Button -> 'OK'
+2016-01-14 12:48:26   INFO [tests.highPriority.LocationsTest] : TEST PASS >> change -'Tip' parameter
+2016-01-14 12:48:26   INFO [pages.LocationsPage] : Click -> first Location from Table
+2016-01-14 12:48:26   INFO [pages.LocationsPage] : Input_Text -> Tips field : 5
+2016-01-14 12:48:26   INFO [pages.LocationsPage] : Click_Button -> 'Save'
+2016-01-14 12:48:28   INFO [pages.LocationsPage] : Click_Button -> 'OK'
+2016-01-14 12:48:28   INFO [tests.highPriority.LocationsTest] : TEST PASS >> turn back -'Tip' parameter
+2016-01-14 12:48:33   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:48:33   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 12:48:35   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 12:48:39   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 12:48:39   INFO [pages.StorePage] : Click_Menu -> 'Store'
+2016-01-14 12:48:39   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 12:48:39   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 12:48:39   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Store edit page opens
+2016-01-14 12:48:40   INFO [pages.StorePage] : Button_'Default' : Disabled
+2016-01-14 12:48:40   INFO [pages.StorePage] : Select_Device -> Android
+2016-01-14 12:48:40   INFO [pages.StorePage] : Select Store Default Item -> 350,000 coins - 39.99$
+2016-01-14 12:48:41   INFO [pages.StorePage] : Select Segment -> Level from 0 to 9
+2016-01-14 12:48:41   INFO [pages.StorePage] : Button_'Is Sale' : Enabled
+2016-01-14 12:48:42   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 12:48:43   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 12:48:43   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 12:48:43   INFO [pages.StorePage] : Button_'Default'- was Disabled
+2016-01-14 12:48:43   INFO [pages.StorePage] : Displayed - 'Android'
+2016-01-14 12:48:43   INFO [pages.StorePage] : Displayed - '350,000 coins - 39.99$'
+2016-01-14 12:48:43   INFO [pages.StorePage] : Displayed - 'Level from 0 to 9'
+2016-01-14 12:48:43   INFO [pages.StorePage] : Button_'Is Sale' - was Enabled
+2016-01-14 12:48:43   INFO [tests.highPriority.StoreCoinsStoreTemplatesTest] : TEST PASS >>> Parameters Changed -> Saved -> Checked if they were saved
+2016-01-14 12:48:43   INFO [pages.StorePage] : Button_'Default' : Enabled
+2016-01-14 12:48:43   INFO [pages.StorePage] : Select_Device -> Web
+2016-01-14 12:48:44   INFO [pages.StorePage] : Select Store Default Item -> 72,500 coins - 9.99$
+2016-01-14 12:48:44   INFO [pages.StorePage] : Clear Segments
+2016-01-14 12:48:44   INFO [pages.StorePage] : Button_'Is Sale' : Disabled
+2016-01-14 12:48:45   INFO [pages.StorePage] : Click_Button -> 'Save'
+2016-01-14 12:48:45   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 12:48:45   INFO [pages.StorePage] : Click -> first template from the table
+2016-01-14 12:48:45   INFO [pages.StorePage] : Button_'Default'- was Enabled
+2016-01-14 12:48:45   INFO [pages.StorePage] : Displayed - 'Web'
+2016-01-14 12:48:45   INFO [pages.StorePage] : Displayed - '72,500 coins - 9.99$'
+2016-01-14 13:13:37   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 13:13:37   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 13:13:39   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 13:13:41   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-14 13:13:41   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-14 13:13:41   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 54
+2016-01-14 13:13:42   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-14 13:13:42   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-14 13:13:42   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-14 13:13:42   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 13:13:42   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-14 13:13:42   INFO [pages.CouponsPage] : Count of Coupons in Table After Add NewOne = 55 >> Coupon created Successfully
+2016-01-14 13:13:42   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-14 13:13:43   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-14 13:13:43   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB
+2016-01-14 13:18:45   INFO [libsmy.WebElements] : Page Loaded Successfully
+2016-01-14 13:18:45   INFO [pages.LoginPage] : User is Logged successfully
+2016-01-14 13:18:47   INFO [pages.LoginPage] : Click_Button -> 'Backgammon'
+2016-01-14 13:18:49   INFO [pages.CouponsPage] : Click_Menu -> 'CouponsPage' 
+2016-01-14 13:18:50   INFO [pages.CouponsPage] : Show All from DropDown list
+2016-01-14 13:18:50   INFO [pages.CouponsPage] : Count of Coupons in Table Before Add 54
+2016-01-14 13:18:50   INFO [pages.CouponsPage] : Click -> 'Add Coupon' 
+2016-01-14 13:18:50   INFO [pages.CouponsPage] : checkBox_CouponEnabled : Enabled
+2016-01-14 13:18:50   INFO [pages.CouponsPage] : Click -> 'Save' 
+2016-01-14 13:18:51   INFO [libsmy.WebElements] : wait for ajax
+2016-01-14 13:18:51   INFO [pages.CouponsPage] : 10000 coins is Presented
+2016-01-14 13:18:51   INFO [pages.CouponsPage] : Count of Coupons in Table After Add NewOne = 55 >> Coupon created Successfully
+2016-01-14 13:18:51   INFO [tests.highPriority.CouponsAddTest] : TEST PASS >> Coupon was successfully added
+2016-01-14 13:18:52   INFO [pages.CouponsPage] : Record is deleted from >> bg_coupons << table!
+2016-01-14 13:18:52   INFO [tests.highPriority.CouponsAddTest] : Created Coupon deleted successfully from DB

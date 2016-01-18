@@ -10,6 +10,7 @@
     <test name="HighPriority Suite">
         <classes>
             <!--<class name="tests.highPriority.CheckErrorsOnPagesTest" />-->
+            <class name="tests.highPriority.CouponsAddTest" />
             <!--<class name="tests.highPriority.ItemsTest" />-->
             <!--<class name="tests.highPriority.LevelsPresenceTest" />-->
             <!--<class name="tests.highPriority.LocationsTest" />-->
@@ -21,7 +22,7 @@
             <!--<class name="tests.highPriority.BanWordsListTest" />-->
             <!--<class name="tests.highPriority.SettingsUpdatingTest" />-->
             <!--<class name="tests.highPriority.CpaEventsTest" />-->
-            <class name="tests.highPriority.FlashLogsTest" />
+            <!--<class name="tests.highPriority.FlashLogsTest" />-->
 
         </classes>
     </test>

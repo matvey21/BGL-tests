@@ -81,8 +81,8 @@ public class BaseTest {
         elements = new WebElements(driver);
         log = Logger.getLogger(this.getClass());
 
-        String urlParam = System.getProperty("stage_url_param");
-        elements.openURL(urlParam);
+        String stageUrlParam = System.getProperty("stage_url_param");
+        elements.openURL(stageUrlParam);
 //        logger.log(LogStatus.INFO, " "+ urlParam+ "CMS is up and running");
 
 // pre-condition to tests. Login user and open certain game.
@@ -124,8 +124,8 @@ public class BaseTest {
 // TODO: how delete named cookies ?
 //      driver.manage().deleteCookie();
 
-        report.endTest(logger);
-        report.flush();
+//        report.endTest(logger);
+//        report.flush();
 
         driver.close();  // Close the new window
         if (driver != null) {

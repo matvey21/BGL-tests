@@ -7,7 +7,7 @@
     <groupId>com.come2play.stage-cms</groupId>
     <artifactId>stage-cms</artifactId>
 
-    <packaging>jar</packaging>  <!-- Output to jar format -->
+    <!--<packaging>jar</packaging>  &lt;!&ndash; Output to jar format &ndash;&gt;-->
     <!--<packaging>pom</packaging>-->
 
     <version>1.0-SNAPSHOT</version>
@@ -40,7 +40,7 @@
         <hostname>http://stage-cms.come2play.com/</hostname>  <!-- way to pass the variable from file to POM.xml :
         if <hostname></hostname> uses empty then pass parameter to maven build: mvn install "-Dhostname=propety value"-->
         <!--or we can pass url ( <hostname>http://stage-cms.come2play.com/</hostname> ) like variable
-        and also we can launch profiles if we whant to switch quickly between parameters-->
+        and also we can launch profiles if we want to switch quickly between parameters-->
     </properties>
 
 
@@ -167,6 +167,12 @@
             <version>4.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.6</version>
+        </dependency>
+
     </dependencies>
 
 
@@ -227,7 +233,7 @@
                             <failonerror>false</failonerror>
                             <htmlMessage>
                                 <![CDATA[
-                                    <p>Hello.. dear Team. Please review my Automation Test report.</p>
+                                    <p>Hello.. dear Team. Please review my Automation Tests report.</p>
                                     <br>
                                     <p>This Mail Send Automatically by Robot, after tests execution finishes.</p>
                                     <p>If you don't want to receive this mail please contact with: Dmitry Matvienko  d.matvienko@come2play.com (QA Engineer). </p>
@@ -428,4 +434,7 @@ clean – the project is clean of all artifacts that came from previous compilat
 compile – the project is compiled into /target directory of project root
 install – packaged archive is copied into local maven repository (could in your user's home directory under /.m2)
 test – unit tests are run package – compiled sources are packaged into archive (JAR by default)
+
+mvn clean test -Dhostname=http://stage-cms.come2play.com/
+
 -->
