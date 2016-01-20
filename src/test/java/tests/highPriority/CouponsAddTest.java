@@ -29,4 +29,10 @@ public class CouponsAddTest extends BaseTest{
         log.info("Created Coupon deleted successfully from DB");
     }
 
+    @Test (dependsOnMethods = "checkAndDeleteCouponInDB")
+    public void checkAnd() throws SQLException, ClassNotFoundException {
+        CouponsPage couponsPage = new CouponsPage(driver);
+        couponsPage.deleteCreatedCouponFromDB();
+        log.info("Created Coupon deleted successfully from DB");
+    }
 }
